@@ -114,4 +114,4 @@ The project report will be updated soon.
 
 ### Special Thanks
 
-This is the course project of Master Praktikum - Machine Learning and Natural Language Processing for Opinion Mining (IN2106, IN4249), Technical University of Munich. I'd like to thanks my teammates: Tim Pfeifle and Hendrick Pauthner, our tutor Hagerer Gerhard, and all member of other teams.
+This is the course project of Master Praktikum - Machine Learning and Natural Language Processing for Opinion Mining (IN2106, IN4249), Technical University of Munich. I'd like to thanks my teammates: Tim Pfeifle and Hendrick Pauthner, our tutor: Hagerer Gerhard, and all member of other teams.
