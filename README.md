@@ -20,7 +20,7 @@ The processing pipeline is as follows.
 
 ##### Raw Data
 
-The model uses [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/) as the training data. The downloaded JSON file is reformated so that they look like the following.
+The model uses [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/) as the training data. The downloaded JSON file is reformated so that they look like the following. The dataset should be balanced during the reformat step.
 
 ```
 ###5.0
